@@ -26,9 +26,11 @@ Before running the project, ensure you have the following installed:
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/Students-Management-Registration-Project.git
+   
 2. Navigate to the project directory:
    ```bash
 cd Students-Management-Registration-Project
+
 3. Install any required packages (if applicable):
     ```bash
     pip install -r requirements.txt
